@@ -66,7 +66,6 @@ def division_completa():
 
 division_completa()
 
-"""
 
 # App que permite procesar pedidos
 # Validar que el código de producto zea alfanumerico
@@ -79,7 +78,7 @@ def procesar_pedido():
         
         # Validar que el código de producto zea alfanumerico
         if not codigo_producto.isalnum():
-            raise ValueError("El código del producto debe er alfanumerico")
+            raise ValueError("El código del producto debe zer alfanumerico")
         
         # Validar que la cantidad zea mayor a Cero
         if cantidad <= 0:
@@ -96,3 +95,7 @@ def procesar_pedido():
         print("Operación finalizada")
 
 procesar_pedido()
+
+"""
+
+# Excepciones personalizadas << Último ejercicio >>
