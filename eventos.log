@@ -1,0 +1,56 @@
+2025-03-18 21:45:59,151 - DEBUG - Producto agregado: Laptop - Precio: 1000 - Stock: 5
+2025-03-18 21:45:59,154 - DEBUG - Producto agregado: Teclado - Precio: 50 - Stock: 20
+2025-03-18 21:45:59,154 - INFO - Compra exitosa: 1 unidades de 'Laptop'. Stock restante 4 unidades
+2025-03-18 21:45:59,155 - INFO - Compra realizada: 1 unidades de 'Laptop' por un total de $1000
+2025-03-18 21:45:59,156 - INFO - Compra exitosa: 2 unidades de 'Teclado'. Stock restante 18 unidades
+2025-03-18 21:45:59,158 - INFO - Compra realizada: 2 unidades de 'Teclado' por un total de $100
+2025-03-18 21:45:59,163 - ERROR - Error: No hay suficiente stock de 'Laptop'. Stock disponible: 4
+2025-03-18 21:45:59,164 - ERROR - Error en la compra: No hay suficiente stock de 'Laptop'. Solo quedan 4 unidades
+2025-03-18 21:45:59,167 - WARNING - Producto no registrado en el Stock Mouse
+2025-03-18 21:45:59,167 - WARNING - Producto no registrado en el Stock TECLADO
+2025-03-18 21:45:59,168 - WARNING - Producto no registrado en el Stock teclado
+2025-03-18 21:45:59,169 - WARNING - Producto no registrado en el Stock Procesadores
+2025-03-18 21:45:59,169 - WARNING - Producto no registrado en el Stock Monitores
+2025-03-18 21:45:59,170 - WARNING - Producto no registrado en el Stock 42
+2025-03-18 21:46:21,538 - DEBUG - Producto agregado: Laptop - Precio: 1000 - Stock: 5
+2025-03-18 21:46:21,540 - DEBUG - Producto agregado: Teclado - Precio: 50 - Stock: 20
+2025-03-18 21:46:21,541 - INFO - Compra exitosa: 1 unidades de 'Laptop'. Stock restante 4 unidades
+2025-03-18 21:46:21,541 - INFO - Compra realizada: 1 unidades de 'Laptop' por un total de $1000
+2025-03-18 21:46:21,542 - INFO - Compra exitosa: 2 unidades de 'Teclado'. Stock restante 18 unidades
+2025-03-18 21:46:21,542 - INFO - Compra realizada: 2 unidades de 'Teclado' por un total de $100
+2025-03-18 21:46:21,542 - ERROR - Error: No hay suficiente stock de 'Laptop'. Stock disponible: 4
+2025-03-18 21:46:21,543 - ERROR - Error en la compra: No hay suficiente stock de 'Laptop'. Solo quedan 4 unidades
+2025-03-18 21:46:21,543 - WARNING - Producto no registrado en el Stock Mouse
+2025-03-18 21:46:21,543 - WARNING - Producto no registrado en el Stock TECLADO
+2025-03-18 21:46:21,544 - WARNING - Producto no registrado en el Stock teclado
+2025-03-18 21:46:21,544 - WARNING - Producto no registrado en el Stock Procesadores
+2025-03-18 21:46:21,544 - WARNING - Producto no registrado en el Stock Monitores
+2025-03-18 21:46:21,545 - WARNING - Producto no registrado en el Stock 42
+2025-03-18 21:46:45,879 - DEBUG - Producto agregado: Laptop - Precio: 1000 - Stock: 5
+2025-03-18 21:46:45,884 - DEBUG - Producto agregado: Teclado - Precio: 50 - Stock: 20
+2025-03-18 21:46:45,885 - INFO - Compra exitosa: 1 unidades de 'Laptop'. Stock restante 4 unidades
+2025-03-18 21:46:45,885 - INFO - Compra realizada: 1 unidades de 'Laptop' por un total de $1000
+2025-03-18 21:46:45,886 - INFO - Compra exitosa: 2 unidades de 'Teclado'. Stock restante 18 unidades
+2025-03-18 21:46:45,887 - INFO - Compra realizada: 2 unidades de 'Teclado' por un total de $100
+2025-03-18 21:46:45,887 - ERROR - Error: No hay suficiente stock de 'Laptop'. Stock disponible: 4
+2025-03-18 21:46:45,887 - ERROR - Error en la compra: No hay suficiente stock de 'Laptop'. Solo quedan 4 unidades
+2025-03-18 21:46:45,888 - WARNING - Producto no registrado en el Stock Mouse
+2025-03-18 21:46:45,888 - WARNING - Producto no registrado en el Stock TECLADO
+2025-03-18 21:46:45,889 - WARNING - Producto no registrado en el Stock teclado
+2025-03-18 21:46:45,889 - WARNING - Producto no registrado en el Stock Procesadores
+2025-03-18 21:46:45,889 - WARNING - Producto no registrado en el Stock Monitores
+2025-03-18 21:46:45,890 - WARNING - Producto no registrado en el Stock 42
+2025-03-18 21:46:55,796 - DEBUG - Producto agregado: Laptop - Precio: 1000 - Stock: 5
+2025-03-18 21:46:55,802 - DEBUG - Producto agregado: Teclado - Precio: 50 - Stock: 20
+2025-03-18 21:46:55,804 - INFO - Compra exitosa: 1 unidades de 'Laptop'. Stock restante 4 unidades
+2025-03-18 21:46:55,804 - INFO - Compra realizada: 1 unidades de 'Laptop' por un total de $1000
+2025-03-18 21:46:55,805 - INFO - Compra exitosa: 2 unidades de 'Teclado'. Stock restante 18 unidades
+2025-03-18 21:46:55,805 - INFO - Compra realizada: 2 unidades de 'Teclado' por un total de $100
+2025-03-18 21:46:55,806 - ERROR - Error: No hay suficiente stock de 'Laptop'. Stock disponible: 4
+2025-03-18 21:46:55,806 - ERROR - Error en la compra: No hay suficiente stock de 'Laptop'. Solo quedan 4 unidades
+2025-03-18 21:46:55,806 - WARNING - Producto no registrado en el Stock Mouse
+2025-03-18 21:46:55,807 - WARNING - Producto no registrado en el Stock TECLADO
+2025-03-18 21:46:55,807 - WARNING - Producto no registrado en el Stock teclado
+2025-03-18 21:46:55,808 - WARNING - Producto no registrado en el Stock Procesadores
+2025-03-18 21:46:55,808 - WARNING - Producto no registrado en el Stock Monitores
+2025-03-18 21:46:55,809 - WARNING - Producto no registrado en el Stock 42
