@@ -101,7 +101,7 @@ try:
 except psycopg2.OperationalError as e:
     print(f"Error de conexión contra la BD: {e}")
     
-"""
+
 
 try:
     with open("archivo.csv", "r") as file:
@@ -109,5 +109,27 @@ try:
 except FileNotFoundError:
     print("El archivo no existe")
 
-# try, except, else, finally
+# try, except, else, finally, logging
 
+"""
+
+import logging
+
+logging.basicConfig(level=logging.ERROR,
+                    format="%(asctime)s %(levelname)s - %(message)s",
+                    handlers= [
+                        logging.FileHandler("Errores.log"),
+                        logging.StreamHandler()
+                        ]
+)
+try:
+    with open("archivo.csv", "r") as file:
+        data = file.readline()
+except FileNotFoundError:
+    logging.error("ERROR. El archivo no existe.")
+    data = None
+else:
+    logging.info("El archivo fue leido con exito.")
+finally:
+    if data:
+        data.close()
