@@ -12,12 +12,14 @@ class Vendedor:
     def calculo_comision(self) -> float:
         if self.ventas_totales > 10000:
             comision = self.ventas_totales * 0.10
-            logging.debug(f"{self.nombre} ha alcanzado el umbral de vetnas. Comision de {comision}")
+            logging.debug(f"{self.nombre} ha alcanzado el umbral de ventas. Comision de {comision}")
         else:
             comision = self.ventas_totales * 0.05
-            logging.debug(f"{self.nombre} ha alcanzado el umbral de vetnas. Comision de {comision}")
+            logging.debug(f"{self.nombre} ha alcanzado el umbral de ventas. Comision de {comision}")
 
 if __name__ == "__main__":
     vendedor = Vendedor("Carol", 20000)
+    print(vendedor.calculo_comision())
     vendedorDos = Vendedor("Juan", 5000)
+    print(vendedorDos.calculo_comision())
     
